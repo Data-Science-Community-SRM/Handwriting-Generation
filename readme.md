@@ -5,7 +5,9 @@ Implementation of the handwriting synthesis experiments in the paper <a href="ht
 Web demo is available <a href="https://seanvasquez.com/handwriting-generation/">here</a>.
 
 ## Usage
-```python run.py
+```
+python run.py
+
 ```
 ![](img/usage_demo.svg)
 
