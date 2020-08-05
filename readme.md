@@ -9,7 +9,7 @@ python run.py
 ```
 ![](img/usage_demo.svg)
 
-Currently, the `Hand` class must be imported from `demo.py`.  If someone would like to package this project to make it more usable, please [contribute](#contribute).
+Currently, the `Hand` class must be imported from `demo.py`.  
 
 A pretrained model is included, for training your own model:
 
