@@ -50,6 +50,8 @@ To train the model, run `rnn.py`.  This takes a couple days on a single Tesla K8
 
 
 ## Contributors
+
+
 <table>
 <tr align="center">
 <td>
@@ -81,6 +83,9 @@ Siddharth Sudhakar
 </a>
 </p>
 </td>
+
+</tr>
+</table>
 
 
 ## License
