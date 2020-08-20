@@ -1,7 +1,7 @@
 from demo import *
 
 lines = [
-    "Im Paras"
+    "This is DSC"
 ]
 
 biases = [.75 for i in lines]
