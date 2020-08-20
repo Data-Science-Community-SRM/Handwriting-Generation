@@ -5,7 +5,7 @@ import numpy as np
 import svgwrite
 
 import drawing
-import lyrics
+
 from rnn import rnn
 
 
