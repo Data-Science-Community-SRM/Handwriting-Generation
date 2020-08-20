@@ -7,6 +7,8 @@
 </p>
 
 ## Pre-requisites
+ Download the checkpoint content from this [link](https://drive.google.com/drive/folders/1ayoaZtXUroOG12ygpHlvrWmdBATizjX3?usp=sharing)
+ Put the contents of the above downloaded folder into checkpoints folder.
  The software requirements are listed in the [requirements.txt](https://github.com/Data-Science-Community-SRM/Handwriting-Generation/blob/master/requirements.txt) file.
 
 ## Usage
